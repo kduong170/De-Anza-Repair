@@ -1,0 +1,15 @@
+154928;Prasham Sheth;iPhone X;2022/04/13;Not charging;40;Complete
+384927;Kimberly Duong;Samsung Galaxy s9;2022/06/03;Cracked backing plate;60;In-progress
+985749;Teresa Bui;iPhone 13;2022/06/14;Broken camera;100;Pending
+573958;Henri Wood;Google Pixel 2;2022/04/20;Crackling sound from speakers;80;Pending
+298578;Jeremy Elliot;iPhone 11 Pro;2022/03/16;Broken button;90;Complete
+193874;Andrea Spears;iPhone SE;2022/06/02;Water damage;200;In-progress
+283579;Jorge Rodriquez;Google Pixel 4;2022/05/30;Touchscreen unresponsive;80;Pending
+958374;Kendall Lee;Samsung Galaxy s8;2022/04/19;Broken speakers;90;Complete
+748563;David Kochman;iPhone 11;2022/05/25;Cracked screen;80;Complete
+283479;Bob Kazamakis;iPhone 8;2022/05/01;Broken button;90;Complete
+348279;Kim Elfman;iPhone 11 Pro Max;2022/05/22;Cracked screen;80;Pending
+657289;Taylor Brubeck;iPhone X;2022/06/16;Battery issues;130;In-progress
+492837;Hillary Saltz;Google Pixel 3 XL;2022/06/15;Water damage;200;In-progress
+598475;Aaron Rhodes;iPhone 8;2022/05/20;Data recovery;60;Pending
+485729;Jerome Johnson;Samsung Galaxy s10;2022/06/05;Broken camera;80;In-progress

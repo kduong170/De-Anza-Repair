@@ -1,0 +1,20 @@
+876183;Jennifer Peterson;Iphone 13 Pro Max;2022/06/07;Cracked screen;80;In-progress
+878384;Hellen Keller;Iphone 12;2022/05/29;Battery Issues;120;Complete
+483878;Laurie Peters;iPhone 12 Pro Max;2022/05/27;Unresponsive screen;110;Pending
+893748;Bob Watkins;iPhone 8;2022/05/01;Broken button;90;Complete
+924055;Kim;iPhone 11 Pro Max;2022/05/22;Cracked screen;80;Pending
+359214;Taylor Atwood;iPhone X;2022/06/16;Battery issues;130;In-progress
+937488;Liana Dennis;iPhone Xs;2022/06/07;Camera malfunction;175;Pending
+739848;Luanne Dukes;iPhone Xs Max;2022/05/07;Bootlooping issues;150;Complete
+462742;Cardea Atwood;Google Pixel 6 Pro;2022/06/13;Cracked screen;80;Pending
+462724;Priya Mori;Google Pixel 6;2022/05/29;Camera malfunction;175;In-progress
+543753;Hajime Arterberry;Google Pixel 5;2022/05/28;Booping issues;150;In-progress
+785964;Shivani Beringer;Google Pixel 4 XL;2022/04/30;Camera malfunction;175;Complete
+986793;Lonny Fenn;Google Pixel 3;2022/05/17;Unresponsive screen;110;Complete
+793689;Krystal Yoxall;Google Pixel 3 XL;2022/05/23;Cracked screen;80;Complete
+872742;Maddox Peterson;Google Pixel 3a;2022/06/14;Camera malfunction;175;Pending
+645274;Caitlyn Eady;Google Pixel 5a;2022/05/07;Unresponsive screen;110;Complete
+793698;Kenzō Kitagawa;Google Pixel 3 XL;2022/06/09;Cracked screen;80;Pending
+932858;Christian Ewart;iPhone Xs Max;2022/04/07;Battery issues;130;Complete
+371784;Jadyn Christianson;iPhone SE (2022);2022/06/10;Camera malfunction;175;Pending
+568287;Hyacinth Pierce;iPhone 8 Plus;2022/05/08;Broken button;90;Complete
