@@ -74,6 +74,9 @@ void run(HashList& hash, BinarySearchTree<string>& bst, DeleteStack& deleted) {
 		case 'Z':
 			undoDelete(hash, bst, deleted);
 			break;
+		case 'I':
+			//saveToFile(hash, bst, deleted);
+			break;
 		case 'V':
 			viewStatistics(hash);
 			break;
@@ -102,6 +105,7 @@ void menu() {
 		<< "\n\tF - Insert smartphones from file"
 		<< "\n\tX - Delete a smartphone from inventory"
 		<< "\n\tZ - Undo delete"
+		<< "\n\tI - Save inventory to file"
 		<< "\n\tV - View statistics"
 		<< "\n\tQ - Quit" << endl;
 }
@@ -355,4 +359,3 @@ bool isPrime(int n)
     
     return true;
 }
-
